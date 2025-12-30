@@ -6,7 +6,8 @@
         "https-proxy-agent": "^5.0.1"
     },
     "engines": {
-        "node": "18.x" // Specify Node.js version (18.x is compatible with Vercel)
+        "node": "18.x"
     }
 }
+
 
