@@ -1,0 +1,8 @@
+{{
+    "name": "codm-account-checker",
+    "version": "1.0.0",
+    "dependencies": {
+        "node-fetch": "^3.3.2",
+        "https-proxy-agent": "^5.0.1" // Para sa proxy support
+    }
+}
